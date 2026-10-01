@@ -1,0 +1,34 @@
+{
+ "channels": {
+  "UC0i0MlsPWMX2Xbi5CrpiKRw": {
+   "subs": 37,
+   "video_views": {
+    "bA_i5FM4QaU": {
+     "views": 1343,
+     "ema": 0
+    },
+    "Ynk30P4fS_Q": {
+     "views": 0,
+     "ema": 0
+    }
+   },
+   "report_cards": {
+    "bA_i5FM4QaU": {
+     "pub": "2026-10-01T05:00:29Z",
+     "done": false
+    },
+    "Ynk30P4fS_Q": {
+     "pub": "2026-10-01T04:00:37Z",
+     "done": false
+    }
+   },
+   "known_videos": [
+    "Ynk30P4fS_Q",
+    "bA_i5FM4QaU"
+   ],
+   "seen_comments": []
+  }
+ },
+ "seeded": true,
+ "updated_at": "2026-10-02T03:32:21.813290+09:00"
+}
