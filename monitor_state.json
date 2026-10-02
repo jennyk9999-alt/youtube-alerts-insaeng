@@ -1,23 +1,23 @@
 {
  "channels": {
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
-   "subs": 37,
+   "subs": 133,
    "video_views": {
     "bA_i5FM4QaU": {
-     "views": 1344,
-     "ema": 0.7
+     "views": 3139,
+     "ema": 538.99
     },
     "Ynk30P4fS_Q": {
      "views": 0,
      "ema": 0
     },
     "83RQmK-215U": {
-     "views": 68,
-     "ema": 0
+     "views": 1368,
+     "ema": 1300
     },
     "mpIvDN6qook": {
-     "views": 0,
-     "ema": 0
+     "views": 2,
+     "ema": 2
     }
    },
    "report_cards": {
@@ -48,9 +48,10 @@
    "h24_history": [
     1154,
     0
-   ]
+   ],
+   "sub_milestone": 100
   }
  },
  "seeded": true,
- "updated_at": "2026-10-02T17:57:18.963170+09:00"
+ "updated_at": "2026-10-03T00:56:17.436090+09:00"
 }
