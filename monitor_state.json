@@ -1,23 +1,27 @@
 {
  "channels": {
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
-   "subs": 133,
+   "subs": 138,
    "video_views": {
     "bA_i5FM4QaU": {
-     "views": 3139,
-     "ema": 538.99
+     "views": 4132,
+     "ema": 675.19
     },
     "Ynk30P4fS_Q": {
      "views": 0,
      "ema": 0
     },
     "83RQmK-215U": {
-     "views": 1368,
-     "ema": 1300
+     "views": 1400,
+     "ema": 919.6
     },
     "mpIvDN6qook": {
-     "views": 2,
-     "ema": 2
+     "views": 5,
+     "ema": 2.3
+    },
+    "11tPCXrof1I": {
+     "views": 811,
+     "ema": 0
     }
    },
    "report_cards": {
@@ -36,9 +40,14 @@
     "mpIvDN6qook": {
      "pub": "2026-10-02T07:00:33Z",
      "done": false
+    },
+    "11tPCXrof1I": {
+     "pub": "2026-10-02T23:00:09Z",
+     "done": false
     }
    },
    "known_videos": [
+    "11tPCXrof1I",
     "83RQmK-215U",
     "Ynk30P4fS_Q",
     "bA_i5FM4QaU",
@@ -53,5 +62,5 @@
   }
  },
  "seeded": true,
- "updated_at": "2026-10-03T00:56:17.436090+09:00"
+ "updated_at": "2026-10-03T11:14:56.172539+09:00"
 }
