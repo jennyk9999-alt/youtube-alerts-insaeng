@@ -5,23 +5,23 @@
    "video_views": {
     "bA_i5FM4QaU": {
      "views": 4185,
-     "ema": 119.82
+     "ema": 83.87
     },
     "83RQmK-215U": {
-     "views": 1445,
-     "ema": 163.72
+     "views": 1447,
+     "ema": 115.2
     },
     "mpIvDN6qook": {
      "views": 15,
-     "ema": 2.62
+     "ema": 1.83
     },
     "c8ovL15P9Is": {
-     "views": 1776,
-     "ema": 1013.3
+     "views": 1786,
+     "ema": 712.31
     },
     "4UAr16K29VU": {
-     "views": 2200,
-     "ema": 1164.4
+     "views": 2207,
+     "ema": 817.18
     }
    },
    "report_cards": {
@@ -47,11 +47,11 @@
     },
     "c8ovL15P9Is": {
      "pub": "2026-10-03T14:42:56Z",
-     "done": false
+     "done": true
     },
     "4UAr16K29VU": {
      "pub": "2026-10-03T14:26:53Z",
-     "done": false
+     "done": true
     }
    },
    "known_videos": [
@@ -69,11 +69,13 @@
     1154,
     0,
     6,
-    1162
+    1162,
+    1732,
+    2117
    ],
    "sub_milestone": 100
   }
  },
  "seeded": true,
- "updated_at": "2026-10-04T19:01:10.338819+09:00"
+ "updated_at": "2026-10-05T00:28:06.484605+09:00"
 }
