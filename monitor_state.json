@@ -1,26 +1,26 @@
 {
  "channels": {
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
-   "subs": 158,
+   "subs": 163,
    "video_views": {
     "c8ovL15P9Is": {
-     "views": 1928,
-     "ema": 198.72
-    },
-    "4UAr16K29VU": {
-     "views": 2310,
-     "ema": 217.96
+     "views": 1949,
+     "ema": 145.4
     },
     "wH6taRPG1EA": {
-     "views": 5,
-     "ema": 5
+     "views": 25,
+     "ema": 9.5
     },
     "KcsFmP25250": {
-     "views": 104,
-     "ema": 0
+     "views": 1329,
+     "ema": 1225
     },
     "yTnzabOVueo": {
-     "views": 1250,
+     "views": 1383,
+     "ema": 133
+    },
+    "D1Lp1-Q6guI": {
+     "views": 176,
      "ema": 0
     }
    },
@@ -37,10 +37,6 @@
      "pub": "2026-10-03T14:42:56Z",
      "done": true
     },
-    "4UAr16K29VU": {
-     "pub": "2026-10-03T14:26:53Z",
-     "done": true
-    },
     "wH6taRPG1EA": {
      "pub": "2026-10-05T16:30:08Z",
      "done": false
@@ -52,12 +48,17 @@
     "yTnzabOVueo": {
      "pub": "2026-10-05T21:30:27Z",
      "done": false
+    },
+    "D1Lp1-Q6guI": {
+     "pub": "2026-10-06T08:30:08Z",
+     "done": false
     }
    },
    "known_videos": [
     "11tPCXrof1I",
     "4UAr16K29VU",
     "83RQmK-215U",
+    "D1Lp1-Q6guI",
     "JV6bQYGr9h0",
     "KcsFmP25250",
     "Ynk30P4fS_Q",
@@ -68,6 +69,7 @@
     "yTnzabOVueo"
    ],
    "seen_comments": [
+    "UgyW5FZPXFD5cDHVAT94AaABAg",
     "UgyW5FZPXFD5cDHVAT94AaABAg"
    ],
    "h24_history": [
@@ -82,5 +84,5 @@
   }
  },
  "seeded": true,
- "updated_at": "2026-10-06T12:15:08.299347+09:00"
+ "updated_at": "2026-10-06T19:41:09.637299+09:00"
 }
