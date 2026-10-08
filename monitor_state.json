@@ -3,25 +3,25 @@
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
    "subs": 178,
    "video_views": {
-    "D1Lp1-Q6guI": {
-     "views": 1241,
-     "ema": 289.33
-    },
-    "ECWbMlqaFgs": {
-     "views": 31,
-     "ema": 12.35
-    },
     "UWtAeM_1ZJ4": {
-     "views": 1423,
-     "ema": 331.0
+     "views": 1429,
+     "ema": 233.5
     },
     "XNPy4ZP0muY": {
-     "views": 1269,
-     "ema": 1161
+     "views": 1308,
+     "ema": 824.4
     },
     "jK5Wu858l8w": {
-     "views": 1220,
-     "ema": 107
+     "views": 1230,
+     "ema": 77.9
+    },
+    "QzrWiELNqhs": {
+     "views": 33,
+     "ema": 0
+    },
+    "EATGNQHiRCA": {
+     "views": 0,
+     "ema": 0
     }
    },
    "report_cards": {
@@ -33,17 +33,9 @@
      "pub": "2026-10-03T03:00:37Z",
      "done": false
     },
-    "D1Lp1-Q6guI": {
-     "pub": "2026-10-06T08:30:08Z",
-     "done": true
-    },
-    "ECWbMlqaFgs": {
-     "pub": "2026-10-06T16:33:37Z",
-     "done": true
-    },
     "UWtAeM_1ZJ4": {
      "pub": "2026-10-06T22:00:35Z",
-     "done": false
+     "done": true
     },
     "XNPy4ZP0muY": {
      "pub": "2026-10-07T09:00:09Z",
@@ -52,6 +44,14 @@
     "jK5Wu858l8w": {
      "pub": "2026-10-07T03:00:28Z",
      "done": false
+    },
+    "QzrWiELNqhs": {
+     "pub": "2026-10-07T22:00:11Z",
+     "done": false
+    },
+    "EATGNQHiRCA": {
+     "pub": "2026-10-07T20:17:27Z",
+     "done": false
     }
    },
    "known_videos": [
@@ -59,9 +59,11 @@
     "4UAr16K29VU",
     "83RQmK-215U",
     "D1Lp1-Q6guI",
+    "EATGNQHiRCA",
     "ECWbMlqaFgs",
     "JV6bQYGr9h0",
     "KcsFmP25250",
+    "QzrWiELNqhs",
     "UWtAeM_1ZJ4",
     "XNPy4ZP0muY",
     "Ynk30P4fS_Q",
@@ -75,8 +77,8 @@
    "seen_comments": [
     "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
     "UgyW5FZPXFD5cDHVAT94AaABAg",
-    "UgyW5FZPXFD5cDHVAT94AaABAg",
-    "UgxOr8Oo_i6jtEEzxOJ4AaABAg"
+    "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
+    "UgyW5FZPXFD5cDHVAT94AaABAg"
    ],
    "h24_history": [
     1154,
@@ -89,11 +91,12 @@
     1410,
     1207,
     1144,
-    29
+    29,
+    1189
    ],
    "sub_milestone": 100
   }
  },
  "seeded": true,
- "updated_at": "2026-10-08T02:55:58.833504+09:00"
+ "updated_at": "2026-10-08T11:51:28.301499+09:00"
 }
