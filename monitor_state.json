@@ -1,26 +1,26 @@
 {
  "channels": {
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
-   "subs": 194,
+   "subs": 207,
    "video_views": {
     "OS14Nb2qHh0": {
-     "views": 0,
-     "ema": 0
+     "views": 176,
+     "ema": 176
     },
     "aNSMbJw_Wng": {
-     "views": 63,
-     "ema": 0
+     "views": 705,
+     "ema": 642
     },
     "vxX46sQ9Bps": {
-     "views": 120,
-     "ema": 0
+     "views": 188,
+     "ema": 68
     },
     "Mx7BGqrmubs": {
-     "views": 309,
-     "ema": 0
+     "views": 1187,
+     "ema": 878
     },
-    "nTCkhHg3qr8": {
-     "views": 915,
+    "schC9ma9N1Q": {
+     "views": 0,
      "ema": 0
     }
    },
@@ -76,6 +76,10 @@
     "nTCkhHg3qr8": {
      "pub": "2026-10-08T22:00:22Z",
      "done": false
+    },
+    "schC9ma9N1Q": {
+     "pub": "2026-10-09T09:00:22Z",
+     "done": false
     }
    },
    "known_videos": [
@@ -101,20 +105,39 @@
     "mKXPOo3-Z7c",
     "mpIvDN6qook",
     "nTCkhHg3qr8",
+    "schC9ma9N1Q",
     "twZ9t_u5HJ0",
     "vxX46sQ9Bps",
     "wH6taRPG1EA",
     "yTnzabOVueo"
    ],
    "seen_comments": [
+    "UgwXv4uxWJMPOZqGksd4AaABAg",
+    "UgzgUA6vBGD_A2lXiyF4AaABAg",
+    "Ugynt1yW_6ddmjJHvbJ4AaABAg",
+    "Ugyx5cq9-egjkT_HMjd4AaABAg",
+    "UgxzSJkDYdfiRCxHnKZ4AaABAg",
+    "UgwJQOLN4wHB_vx9z1Z4AaABAg",
+    "UgzYZa5hFW2kcmsLYBd4AaABAg",
+    "Ugz9SeLke_HlDG8vptJ4AaABAg",
+    "Ugx49-Gwfa3JKm7Djvp4AaABAg",
+    "UgxTwWbjU1dXmAyrhp54AaABAg",
+    "UgxRi5mvSCgAuDAqEJR4AaABAg",
+    "UgwCQxoaVsXGqxeTrux4AaABAg",
+    "UgyerM-giQyIvM416g14AaABAg",
+    "Ugy6KXz7fPQzSnN1ak54AaABAg",
+    "Ugzzb3zTRXhs2_2ogfN4AaABAg",
     "Ugyy_24OLADbqH6iYal4AaABAg",
     "UgwovL6S-AGhiJwNnld4AaABAg",
     "UgxXgASYkYuMCT3Cqmh4AaABAg",
     "UgxrMThEcxXBh37Ry7h4AaABAg",
     "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
+    "Ugyy_24OLADbqH6iYal4AaABAg",
     "UgyW5FZPXFD5cDHVAT94AaABAg",
-    "UgyW5FZPXFD5cDHVAT94AaABAg",
-    "UgxOr8Oo_i6jtEEzxOJ4AaABAg"
+    "UgxrMThEcxXBh37Ry7h4AaABAg",
+    "UgwovL6S-AGhiJwNnld4AaABAg",
+    "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
+    "UgxXgASYkYuMCT3Cqmh4AaABAg"
    ],
    "h24_history": [
     1154,
@@ -131,9 +154,9 @@
     1189,
     1219
    ],
-   "sub_milestone": 100
+   "sub_milestone": 200
   }
  },
  "seeded": true,
- "updated_at": "2026-10-09T12:02:11.326295+09:00"
+ "updated_at": "2026-10-09T19:50:28.520328+09:00"
 }
