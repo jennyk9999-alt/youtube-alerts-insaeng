@@ -1,26 +1,26 @@
 {
  "channels": {
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
-   "subs": 189,
+   "subs": 194,
    "video_views": {
-    "QzrWiELNqhs": {
-     "views": 58,
-     "ema": 16.3
-    },
-    "EATGNQHiRCA": {
-     "views": 7,
-     "ema": 3.3
-    },
-    "mKXPOo3-Z7c": {
-     "views": 1386,
-     "ema": 1040
-    },
-    "twZ9t_u5HJ0": {
-     "views": 1270,
-     "ema": 54
-    },
-    "aKnmO5iofik": {
+    "OS14Nb2qHh0": {
      "views": 0,
+     "ema": 0
+    },
+    "aNSMbJw_Wng": {
+     "views": 63,
+     "ema": 0
+    },
+    "vxX46sQ9Bps": {
+     "views": 120,
+     "ema": 0
+    },
+    "Mx7BGqrmubs": {
+     "views": 309,
+     "ema": 0
+    },
+    "nTCkhHg3qr8": {
+     "views": 915,
      "ema": 0
     }
    },
@@ -56,6 +56,26 @@
     "aKnmO5iofik": {
      "pub": "2026-10-08T16:32:55Z",
      "done": false
+    },
+    "OS14Nb2qHh0": {
+     "pub": "2026-10-09T03:00:08Z",
+     "done": false
+    },
+    "aNSMbJw_Wng": {
+     "pub": "2026-10-09T01:28:18Z",
+     "done": false
+    },
+    "vxX46sQ9Bps": {
+     "pub": "2026-10-09T01:09:37Z",
+     "done": false
+    },
+    "Mx7BGqrmubs": {
+     "pub": "2026-10-09T01:08:49Z",
+     "done": false
+    },
+    "nTCkhHg3qr8": {
+     "pub": "2026-10-08T22:00:22Z",
+     "done": false
     }
    },
    "known_videos": [
@@ -67,25 +87,34 @@
     "ECWbMlqaFgs",
     "JV6bQYGr9h0",
     "KcsFmP25250",
+    "Mx7BGqrmubs",
+    "OS14Nb2qHh0",
     "QzrWiELNqhs",
     "UWtAeM_1ZJ4",
     "XNPy4ZP0muY",
     "Ynk30P4fS_Q",
     "aKnmO5iofik",
+    "aNSMbJw_Wng",
     "bA_i5FM4QaU",
     "c8ovL15P9Is",
     "jK5Wu858l8w",
     "mKXPOo3-Z7c",
     "mpIvDN6qook",
+    "nTCkhHg3qr8",
     "twZ9t_u5HJ0",
+    "vxX46sQ9Bps",
     "wH6taRPG1EA",
     "yTnzabOVueo"
    ],
    "seen_comments": [
+    "Ugyy_24OLADbqH6iYal4AaABAg",
+    "UgwovL6S-AGhiJwNnld4AaABAg",
+    "UgxXgASYkYuMCT3Cqmh4AaABAg",
+    "UgxrMThEcxXBh37Ry7h4AaABAg",
     "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
     "UgyW5FZPXFD5cDHVAT94AaABAg",
-    "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
-    "UgyW5FZPXFD5cDHVAT94AaABAg"
+    "UgyW5FZPXFD5cDHVAT94AaABAg",
+    "UgxOr8Oo_i6jtEEzxOJ4AaABAg"
    ],
    "h24_history": [
     1154,
@@ -106,5 +135,5 @@
   }
  },
  "seeded": true,
- "updated_at": "2026-10-09T02:57:48.951842+09:00"
+ "updated_at": "2026-10-09T12:02:11.326295+09:00"
 }
