@@ -1,26 +1,26 @@
 {
  "channels": {
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
-   "subs": 235,
+   "subs": 236,
    "video_views": {
     "0APTwe9aG_Q": {
-     "views": 1006,
-     "ema": 906
-    },
-    "jUbrkeGZfuY": {
-     "views": 7,
-     "ema": 6
-    },
-    "_mRxt3ewv64": {
-     "views": 1176,
-     "ema": 23
+     "views": 1048,
+     "ema": 646.8
     },
     "u6Rm3ygKjcY": {
-     "views": 699,
-     "ema": 0
+     "views": 1095,
+     "ema": 396
     },
     "FTGJgsYZvm4": {
-     "views": 476,
+     "views": 958,
+     "ema": 482
+    },
+    "EUwh2U9DfuE": {
+     "views": 250,
+     "ema": 0
+    },
+    "KMXNRDOs9xA": {
+     "views": 904,
      "ema": 0
     }
    },
@@ -132,6 +132,14 @@
     "FTGJgsYZvm4": {
      "pub": "2026-10-12T11:30:11Z",
      "done": false
+    },
+    "EUwh2U9DfuE": {
+     "pub": "2026-10-13T03:00:24Z",
+     "done": false
+    },
+    "KMXNRDOs9xA": {
+     "pub": "2026-10-12T22:00:25Z",
+     "done": false
     }
    },
    "known_videos": [
@@ -148,9 +156,11 @@
     "D1Lp1-Q6guI",
     "EATGNQHiRCA",
     "ECWbMlqaFgs",
+    "EUwh2U9DfuE",
     "FTGJgsYZvm4",
     "FiwtXSrrH2k",
     "JV6bQYGr9h0",
+    "KMXNRDOs9xA",
     "KcsFmP25250",
     "Mx7BGqrmubs",
     "OS14Nb2qHh0",
@@ -182,6 +192,9 @@
     "yTnzabOVueo"
    ],
    "seen_comments": [
+    "Ugyz3P52ADvue_aibUh4AaABAg",
+    "Ugw3_zkqyHn0PgBnggl4AaABAg",
+    "UgxmP_9SLJJFM3R-JVJ4AaABAg",
     "UgyVpRD906QN8Givt-R4AaABAg",
     "Ugx79mhqcIXZsOcoq4Z4AaABAg",
     "UgxhHg18_0EIPPp3M-h4AaABAg",
@@ -199,43 +212,42 @@
     "UgzgUA6vBGD_A2lXiyF4AaABAg",
     "Ugynt1yW_6ddmjJHvbJ4AaABAg",
     "Ugyx5cq9-egjkT_HMjd4AaABAg",
-    "UgxzSJkDYdfiRCxHnKZ4AaABAg",
-    "UgwJQOLN4wHB_vx9z1Z4AaABAg",
-    "UgzYZa5hFW2kcmsLYBd4AaABAg",
-    "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
-    "UgwT-RmWJcukvNdNkyd4AaABAg",
-    "Ugynt1yW_6ddmjJHvbJ4AaABAg",
-    "UgwJQOLN4wHB_vx9z1Z4AaABAg",
-    "Ugx3vjjqdhiWT7B8BC94AaABAg",
-    "Ugz9SeLke_HlDG8vptJ4AaABAg",
-    "Ugy4V8RrbHPkzGKoa8h4AaABAg",
-    "UgyWYLuHtwNkFmGDHGB4AaABAg",
-    "Ugyx5cq9-egjkT_HMjd4AaABAg",
-    "UgymMWC4leSiZXF8JCN4AaABAg",
-    "UgxRi5mvSCgAuDAqEJR4AaABAg",
-    "UgxTwWbjU1dXmAyrhp54AaABAg",
-    "UgwgBs490e9ct411RjB4AaABAg",
-    "UgxYoxLMpfJO-asFpVl4AaABAg",
-    "Ugyy_24OLADbqH6iYal4AaABAg",
-    "Ugzzb3zTRXhs2_2ogfN4AaABAg",
-    "UgxDiRuIzeiMI1vOL5N4AaABAg",
-    "UgyjjClwTzMqlnMhQsR4AaABAg",
-    "UgyiAzbG6sQLb-rol6V4AaABAg",
-    "Ugx2g4umW8MNJAb8d2F4AaABAg",
-    "UgwovL6S-AGhiJwNnld4AaABAg",
-    "UgzYZa5hFW2kcmsLYBd4AaABAg",
     "UgxhHg18_0EIPPp3M-h4AaABAg",
-    "Ugx49-Gwfa3JKm7Djvp4AaABAg",
-    "UgzgUA6vBGD_A2lXiyF4AaABAg",
-    "UgyerM-giQyIvM416g14AaABAg",
-    "Ugy6KXz7fPQzSnN1ak54AaABAg",
-    "UgyW5FZPXFD5cDHVAT94AaABAg",
-    "UgwCQxoaVsXGqxeTrux4AaABAg",
-    "UgxrMThEcxXBh37Ry7h4AaABAg",
-    "UgxzSJkDYdfiRCxHnKZ4AaABAg",
-    "UgxXgASYkYuMCT3Cqmh4AaABAg",
+    "UgxDiRuIzeiMI1vOL5N4AaABAg",
+    "Ugx3vjjqdhiWT7B8BC94AaABAg",
+    "Ugy4V8RrbHPkzGKoa8h4AaABAg",
+    "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
+    "Ugyy_24OLADbqH6iYal4AaABAg",
+    "UgyVpRD906QN8Givt-R4AaABAg",
     "Ugzb6Wzc8x1mlZgj47l4AaABAg",
-    "UgwXv4uxWJMPOZqGksd4AaABAg"
+    "UgzYZa5hFW2kcmsLYBd4AaABAg",
+    "Ugy6KXz7fPQzSnN1ak54AaABAg",
+    "UgxzSJkDYdfiRCxHnKZ4AaABAg",
+    "UgwJQOLN4wHB_vx9z1Z4AaABAg",
+    "UgxTwWbjU1dXmAyrhp54AaABAg",
+    "UgxXgASYkYuMCT3Cqmh4AaABAg",
+    "UgyW5FZPXFD5cDHVAT94AaABAg",
+    "UgyiAzbG6sQLb-rol6V4AaABAg",
+    "UgwT-RmWJcukvNdNkyd4AaABAg",
+    "UgxrMThEcxXBh37Ry7h4AaABAg",
+    "UgwovL6S-AGhiJwNnld4AaABAg",
+    "UgyerM-giQyIvM416g14AaABAg",
+    "UgxRi5mvSCgAuDAqEJR4AaABAg",
+    "UgyWYLuHtwNkFmGDHGB4AaABAg",
+    "Ugz9SeLke_HlDG8vptJ4AaABAg",
+    "UgzgUA6vBGD_A2lXiyF4AaABAg",
+    "Ugx49-Gwfa3JKm7Djvp4AaABAg",
+    "UgwXv4uxWJMPOZqGksd4AaABAg",
+    "Ugynt1yW_6ddmjJHvbJ4AaABAg",
+    "UgyjjClwTzMqlnMhQsR4AaABAg",
+    "Ugx79mhqcIXZsOcoq4Z4AaABAg",
+    "UgwCQxoaVsXGqxeTrux4AaABAg",
+    "UgymMWC4leSiZXF8JCN4AaABAg",
+    "Ugyx5cq9-egjkT_HMjd4AaABAg",
+    "Ugzzb3zTRXhs2_2ogfN4AaABAg",
+    "UgxYoxLMpfJO-asFpVl4AaABAg",
+    "UgwgBs490e9ct411RjB4AaABAg",
+    "Ugx2g4umW8MNJAb8d2F4AaABAg"
    ],
    "h24_history": [
     1154,
@@ -261,5 +273,5 @@
   }
  },
  "seeded": true,
- "updated_at": "2026-10-13T05:23:50.963886+09:00"
+ "updated_at": "2026-10-13T12:45:44.750498+09:00"
 }
