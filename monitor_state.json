@@ -1,27 +1,27 @@
 {
  "channels": {
   "UC0i0MlsPWMX2Xbi5CrpiKRw": {
-   "subs": 249,
+   "subs": 253,
    "video_views": {
     "EUwh2U9DfuE": {
-     "views": 1582,
-     "ema": 28.39
+     "views": 1597,
+     "ema": 24.37
     },
     "YEmqiYBBQdg": {
-     "views": 1328,
-     "ema": 53.77
+     "views": 1341,
+     "ema": 41.54
     },
     "mmNL21Iru5o": {
-     "views": 19,
-     "ema": 11
+     "views": 50,
+     "ema": 17.0
     },
     "hb4nZJpeG2Q": {
-     "views": 412,
-     "ema": 0
+     "views": 1164,
+     "ema": 752
     },
     "kgtyobX54bk": {
-     "views": 1036,
-     "ema": 0
+     "views": 1763,
+     "ema": 727
     }
    },
    "report_cards": {
@@ -195,6 +195,8 @@
     "yTnzabOVueo"
    ],
    "seen_comments": [
+    "Ugw-MhzHRWnVy55DatB4AaABAg",
+    "UgwdUrpB5AmJeZMC16t4AaABAg",
     "Ugz9kczrjTaHx4vD0BZ4AaABAg",
     "UgwCNCcIlQWTKg4L6k94AaABAg",
     "Ugwtpeswyr6hmRXK66B4AaABAg",
@@ -213,48 +215,57 @@
     "UgyVpRD906QN8Givt-R4AaABAg",
     "Ugx79mhqcIXZsOcoq4Z4AaABAg",
     "UgxhHg18_0EIPPp3M-h4AaABAg",
-    "UgyWYLuHtwNkFmGDHGB4AaABAg",
-    "UgymMWC4leSiZXF8JCN4AaABAg",
-    "UgxmP_9SLJJFM3R-JVJ4AaABAg",
-    "UgymMWC4leSiZXF8JCN4AaABAg",
-    "UgxDiRuIzeiMI1vOL5N4AaABAg",
-    "Ugzb6Wzc8x1mlZgj47l4AaABAg",
-    "UgxYoxLMpfJO-asFpVl4AaABAg",
-    "Ugynt1yW_6ddmjJHvbJ4AaABAg",
-    "Ugyx5cq9-egjkT_HMjd4AaABAg",
-    "UgwJQOLN4wHB_vx9z1Z4AaABAg",
-    "Ugzzb3zTRXhs2_2ogfN4AaABAg",
-    "UgwCQxoaVsXGqxeTrux4AaABAg",
+    "UgyerM-giQyIvM416g14AaABAg",
+    "UgyiAzbG6sQLb-rol6V4AaABAg",
+    "UgzYZa5hFW2kcmsLYBd4AaABAg",
+    "UgzbjgLgGX6zJADfN-l4AaABAg",
+    "UgxXgASYkYuMCT3Cqmh4AaABAg",
     "UgwovL6S-AGhiJwNnld4AaABAg",
-    "UgwgBs490e9ct411RjB4AaABAg",
-    "UgxhHg18_0EIPPp3M-h4AaABAg",
+    "Ugyz3P52ADvue_aibUh4AaABAg",
+    "Ugx2g4umW8MNJAb8d2F4AaABAg",
+    "UgymMWC4leSiZXF8JCN4AaABAg",
     "UgwXv4uxWJMPOZqGksd4AaABAg",
-    "UgyVpRD906QN8Givt-R4AaABAg",
-    "Ugx3vjjqdhiWT7B8BC94AaABAg",
+    "Ugynt1yW_6ddmjJHvbJ4AaABAg",
+    "UgxzSJkDYdfiRCxHnKZ4AaABAg",
+    "Ugy6KXz7fPQzSnN1ak54AaABAg",
+    "Ugx79mhqcIXZsOcoq4Z4AaABAg",
+    "UgxhHg18_0EIPPp3M-h4AaABAg",
+    "UgxYoxLMpfJO-asFpVl4AaABAg",
+    "UgyGvF7WUj-XDtpmEd94AaABAg",
+    "UgwT-RmWJcukvNdNkyd4AaABAg",
+    "UgwwgVxHQsxE2x_hoTt4AaABAg",
+    "UgwCNCcIlQWTKg4L6k94AaABAg",
     "Ugyy_24OLADbqH6iYal4AaABAg",
     "UgxrMThEcxXBh37Ry7h4AaABAg",
-    "Ugz9SeLke_HlDG8vptJ4AaABAg",
     "UgyjjClwTzMqlnMhQsR4AaABAg",
-    "Ugx2g4umW8MNJAb8d2F4AaABAg",
-    "UgxTwWbjU1dXmAyrhp54AaABAg",
-    "UgyWYLuHtwNkFmGDHGB4AaABAg",
-    "Ugyz3P52ADvue_aibUh4AaABAg",
-    "UgyiAzbG6sQLb-rol6V4AaABAg",
     "Ugy4V8RrbHPkzGKoa8h4AaABAg",
-    "UgxzSJkDYdfiRCxHnKZ4AaABAg",
     "UgzgUA6vBGD_A2lXiyF4AaABAg",
-    "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
-    "UgxXgASYkYuMCT3Cqmh4AaABAg",
-    "Ugx49-Gwfa3JKm7Djvp4AaABAg",
-    "UgyW5FZPXFD5cDHVAT94AaABAg",
-    "UgzTX-T7_cu_wLBErml4AaABAg",
+    "UgxTwWbjU1dXmAyrhp54AaABAg",
+    "UgyVpRD906QN8Givt-R4AaABAg",
+    "Ugyx5cq9-egjkT_HMjd4AaABAg",
     "UgxRi5mvSCgAuDAqEJR4AaABAg",
-    "UgwT-RmWJcukvNdNkyd4AaABAg",
-    "Ugy6KXz7fPQzSnN1ak54AaABAg",
-    "Ugw3_zkqyHn0PgBnggl4AaABAg",
-    "Ugx79mhqcIXZsOcoq4Z4AaABAg",
-    "UgyerM-giQyIvM416g14AaABAg",
-    "UgzYZa5hFW2kcmsLYBd4AaABAg"
+    "Ugwf12E-x32QogG_uCR4AaABAg",
+    "UgwUqMuZQYqMJOtXAb94AaABAg",
+    "Ugzzb3zTRXhs2_2ogfN4AaABAg",
+    "UgxOr8Oo_i6jtEEzxOJ4AaABAg",
+    "UgyW5FZPXFD5cDHVAT94AaABAg",
+    "Ugx3vjjqdhiWT7B8BC94AaABAg",
+    "UgxmP_9SLJJFM3R-JVJ4AaABAg",
+    "UgxDiRuIzeiMI1vOL5N4AaABAg",
+    "Ugwtpeswyr6hmRXK66B4AaABAg",
+    "Ugz9kczrjTaHx4vD0BZ4AaABAg",
+    "UgyWYLuHtwNkFmGDHGB4AaABAg",
+    "Ugz9SeLke_HlDG8vptJ4AaABAg",
+    "UgwJQOLN4wHB_vx9z1Z4AaABAg",
+    "UgwCQxoaVsXGqxeTrux4AaABAg",
+    "UgwgBs490e9ct411RjB4AaABAg",
+    "Ugx49-Gwfa3JKm7Djvp4AaABAg",
+    "Ugzb6Wzc8x1mlZgj47l4AaABAg",
+    "UgzTX-T7_cu_wLBErml4AaABAg",
+    "Ugzy7JmCXjc6RkrxB8V4AaABAg",
+    "UgzWfwLGvQI5Ww6SqA54AaABAg",
+    "UgxCd6Ul-nyBv0nNLvx4AaABAg",
+    "Ugw3_zkqyHn0PgBnggl4AaABAg"
    ],
    "h24_history": [
     1732,
@@ -282,5 +293,5 @@
   }
  },
  "seeded": true,
- "updated_at": "2026-10-16T21:40:49.989044+09:00"
+ "updated_at": "2026-10-17T02:38:20.882065+09:00"
 }
